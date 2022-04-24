@@ -12,7 +12,7 @@ int main(){
     puts("digite a senha correta");
 
     gets(str1);
-
+ 
     strcmp(str,"senha123");
 
 
